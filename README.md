@@ -4,7 +4,8 @@
 A quiet document library for people who are tired of software trying to own everything.
 
 **Open source. Local-first. Keyboard oriented. No accounts. No telemetry. No bullshit.**
-
+---
+**[↓ Install](install.md)** · [Local LLM search](setup-local-llm-intelligent-search.md) · [Full disclosure](full_disclosure.md)
 ---
 
 ## Why this exists
