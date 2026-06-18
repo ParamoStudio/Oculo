@@ -1,5 +1,6 @@
 
-# Óculo <img width="128" height="128" alt="icon_128x128" src="https://github.com/user-attachments/assets/c3878073-7a96-4cf0-9118-78f9c6037c8b" />
+# Óculo 
+<img width="128" height="128" alt="icon_128x128" src="https://github.com/user-attachments/assets/c3878073-7a96-4cf0-9118-78f9c6037c8b" />
 
 
 
