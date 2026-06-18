@@ -1,5 +1,7 @@
 
 # Óculo
+<img width="256" height="256" alt="icon_256x256@2x" src="https://github.com/user-attachments/assets/7d9de592-5616-4509-8477-5538d6cfce6a" />
+
 
 A quiet document library for people who are tired of software trying to own everything.
 
