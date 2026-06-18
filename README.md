@@ -5,7 +5,7 @@ A quiet document library for people who are tired of software trying to own ever
 
 **Open source. Local-first. Keyboard oriented. No accounts. No telemetry. No bullshit.**
 ---
-**[↓ Install](install.md)** · [Local LLM search](setup-local-llm-intelligent-search.md) · [Full disclosure](full_disclosure.md)
+**[↓ Install](install.md)** · [How to use](How_To_Use.md)** · [Local LLM search](setup-local-llm-intelligent-search.md) · [Full disclosure](full_disclosure.md)
 ---
 <img width="1069" height="819" alt="DemoQuery" src="https://github.com/user-attachments/assets/ccf1528e-084d-4af4-a05e-8db6617568ad" />
 <img width="1069" height="819" alt="DemoGeneral" src="https://github.com/user-attachments/assets/db250357-dad9-4327-8e84-d4c8dfb016d0" />
