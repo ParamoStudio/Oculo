@@ -1,6 +1,7 @@
 
 <div align="center">
-  <img width="128" height="128" alt="icon_128x128" src="https://github.com/user-attachments/assets/c3878073-7a96-4cf0-9118-78f9c6037c8b" />
+  <img width="1024" height="1024" alt="icon" src="https://github.com/user-attachments/assets/ee88090a-0044-4d3f-8a8f-de12d2f87bd3" />
+
 
   # Óculo
 </div>
