@@ -7,6 +7,8 @@ A quiet document library for people who are tired of software trying to own ever
 ---
 **[↓ Install](install.md)** · [Local LLM search](setup-local-llm-intelligent-search.md) · [Full disclosure](full_disclosure.md)
 ---
+<img width="1004" height="759" alt="image" src="https://github.com/user-attachments/assets/101b3b7a-3732-44f1-a5c1-c0dcc649e213" />
+<img width="1005" height="749" alt="image" src="https://github.com/user-attachments/assets/87745454-b56f-4ec5-96ea-50110cc8a482" />
 
 ## Why this exists
 
